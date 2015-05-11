@@ -126,7 +126,7 @@ public class VentanaPokedex extends javax.swing.JFrame {
             jLabel1.setText("Nombre:  "+p.nombre);
             jLabel2.setText("Especie:  "+p.species);
             jLabel3.setText("Número:  "+contador);
-            jLabel4.setText("Habitat  "+p.habitat);
+            jLabel4.setText("Habitat:  "+p.habitat);
         }
         else {
             jLabel1.setText("No consta");
